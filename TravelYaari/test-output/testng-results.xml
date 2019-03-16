@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TravelYaari Automation" duration-ms="7647" started-at="2019-03-16T14:46:01Z" finished-at="2019-03-16T14:46:08Z">
+    <groups>
+    </groups>
+    <test name="CheckPrice" duration-ms="7647" started-at="2019-03-16T14:46:01Z" finished-at="2019-03-16T14:46:08Z">
+      <class name="QAProject.TravelYaari.TestCases.FindBusWithMinPrice">
+        <test-method status="PASS" signature="getMinimumPriceDetails()[pri:0, instance:QAProject.TravelYaari.TestCases.FindBusWithMinPrice@413d1baf]" name="getMinimumPriceDetails" duration-ms="6354" started-at="2019-03-16T14:46:01Z" finished-at="2019-03-16T14:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMinimumPriceDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:QAProject.TravelYaari.TestCases.FindBusWithMinPrice@413d1baf]" name="tearDown" is-config="true" duration-ms="813" started-at="2019-03-16T14:46:07Z" finished-at="2019-03-16T14:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QAProject.TravelYaari.TestCases.FindBusWithMinPrice -->
+      <class name="QAProject.TravelYaari.TestCases.FindBusWithMaxPrice">
+        <test-method status="PASS" signature="getMaximumPriceDetails()[pri:0, instance:QAProject.TravelYaari.TestCases.FindBusWithMaxPrice@16eb3ea3]" name="getMaximumPriceDetails" duration-ms="6752" started-at="2019-03-16T14:46:01Z" finished-at="2019-03-16T14:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMaximumPriceDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:QAProject.TravelYaari.TestCases.FindBusWithMaxPrice@16eb3ea3]" name="tearDown" is-config="true" duration-ms="862" started-at="2019-03-16T14:46:08Z" finished-at="2019-03-16T14:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:QAProject.TravelYaari.TestCases.FindBusWithMaxPrice@16eb3ea3]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-03-16T14:46:08Z" finished-at="2019-03-16T14:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:QAProject.TravelYaari.TestCases.FindBusWithMinPrice@413d1baf]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-16T14:46:08Z" finished-at="2019-03-16T14:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QAProject.TravelYaari.TestCases.FindBusWithMaxPrice -->
+    </test> <!-- CheckPrice -->
+  </suite> <!-- TravelYaari Automation -->
+</testng-results>
